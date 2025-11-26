@@ -1,4 +1,4 @@
-# if 
+# if and isinstance and pririty of chart(up to down and left to right)
 Amir = 31
 Kobra = 55
 kamal = 23
@@ -29,3 +29,9 @@ isinstance(Soghra, int) and isinstance(API, str):
 else:
      print('mommy')
 isinstance(Amir, str)
+isinstance(Amir, int)
+if len('monster') > len('mom'):
+     w = 'my name is the fucking king'
+else:
+     w = 'my name is the fucking losser'
+w
