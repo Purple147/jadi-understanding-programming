@@ -14,7 +14,7 @@ if q > w:
 else:
     e = "my brother is older than me"
 print(e)
-if (Mohammad or Motahhareh) is "worker":
+if (Mohammad or Motahhareh) == "worker":
     print("one of us working, me and my sister")
 else:
     print("we are not working, me and my sister")

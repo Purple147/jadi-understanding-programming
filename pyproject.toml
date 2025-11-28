@@ -1,7 +1,7 @@
 [tool.ruff]
 line-length = 88
-version-target = '314'
+target-version = 'py314'
 extend-select = ['I']
-[tool-black]
+[tool.black]
 line-length = 88
-version-target = '314'
+target-version = ['py314']
