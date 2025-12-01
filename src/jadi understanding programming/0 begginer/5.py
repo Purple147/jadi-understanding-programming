@@ -4,8 +4,12 @@ variable_2 = "Alireza"
 variable_3 = 74
 variable_4 = 93
 variable_5 = 2 * 33
+
+
 def variable_6(v1, v2):
     print(v1 * v2)
+
+
 variable_6(2, 22)
 a = 0
 for counts_1 in "Saiid":
@@ -34,7 +38,7 @@ for counts_11 in range(variable_3, variable_4):
 for count_12 in range(0, 22):
     print(variable_5)
     print(33 * 3)
-for counts_13 in range(0,33):
+for counts_13 in range(0, 33):
     variable_6(2, 33)
 for counts_14 in range(0, 4):
     variable_3 += 1
