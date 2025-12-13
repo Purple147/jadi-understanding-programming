@@ -15,11 +15,7 @@ Auth = {
     "key": API_Key_Auth_Key,
 }
 Login = requests.get(url_1, auth=Auth)
-Text = {
-    "text": "Fuck You Girl",
-    "average_score": 1,
-    "average_age": 18
-}
+Text = {"text": "Fuck You Girl", "average_score": 1, "average_age": 18}
 Object_Storage = requests.get(url_2, Text)
 
 print(Auth, Object_Storage)
