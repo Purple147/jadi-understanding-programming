@@ -1,0 +1,5 @@
+# Values = type(float,int,str,function,...), print()
+type("asosak")
+type(324234)
+type(23423.23423)
+print("Alireza", 234234, 234.234)
