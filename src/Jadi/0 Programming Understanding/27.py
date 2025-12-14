@@ -16,7 +16,11 @@ for Paragraphs in document.paragraphs:
                 NewText += Charackters
                 NumbersDone += 1
             else:
-                NewText = NewText[:-1 * NumbersDone] + Charackters + NewText[-1 * NumbersDone:]
+                NewText = (
+                    NewText[: -1 * NumbersDone]
+                    + Charackters
+                    + NewText[-1 * NumbersDone :]
+                )
                 NumbersDone += 1
         else:
             NewText += Charackters
