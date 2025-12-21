@@ -7,5 +7,5 @@
 # Deactivating Virtual Enviroment = deactivate
 # mkdir = making a folder, pip search x, pip show x, pip freeze, pip freeze > requirements.txt
 # Loock Library = Library==Version, cat Address
-# Virtual Enviroment + requirements.txt file = We good for sendin script to others 
+# Virtual Enviroment + requirements.txt file = We good for sendin script to others
 # for installing requirements.txt = pip install -r requirements.txt
