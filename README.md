@@ -261,7 +261,7 @@
                 
                 3 import mysql-connector, cnx = mysql.connector.connect(user ="", password="", host="", database=""), cnx(close)
 
-                4 beautiful soup, from bs4 import beautifulsoup, beautifulsoup(what page, how("x.parser" like "html.parser")), x.find("y"), x.find_all("y"), x.attrs"""
+                4 beautiful soup, from bs4 import beautifulsoup, beautifulsoup(what page, how("x.parser" like "html.parser")), x.find("y"), x.find_all("y"), x.attrs, x.find/find_all("y", Condition(Example= z(Usualy z=attrs)={"a": "b"}))"""
         
         """5 spaces : pririty and connection and small to big : 1 left to right 2 up to down"""
 }
